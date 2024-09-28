@@ -59,9 +59,3 @@ Where:
 - Ensure proper **output synchronization** when child processes print results to `stdout`.
 
 - Make sure that the parent process correctly waits for the termination of all child processes to avoid creating **zombie processes**.
-
-## Grading Criteria:
-
-- Code functionality and correct implementation.
-- Compliance with C-programming standards and practices.
-- Proper commenting, structuring, and indentation of the code.
